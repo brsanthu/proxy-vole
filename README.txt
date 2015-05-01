@@ -1,3 +1,7 @@
+************* Note that this is a clone of repository at https://code.google.com/p/proxy-vole/ **********
+Cloned here so that we have the source when google code is retired and also can support pushing the binaries to maven central.
+*********************************************************************************************************
+
 Introduction:
 -------------
 The intent of this project is to build a framework to detecting the proxy settings
